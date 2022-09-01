@@ -1,0 +1,1509 @@
+
+[
+      {
+            "context": "Nilipokuwa mdogo nilienda kuwatembelea babu na nyanya yangu. Waliishi Katika nchi ya Kenya mji mmoja onaitwa Nakuru.Tulipanda ndege kutoka mji wa Melbourne hadi Dubai. Pale Dubai tulichukua ndege ya kutupeleka mpaka mji mkuu wa KenyaNairobi.", 
+             "qas": [
+                  {
+                    "id": "00001",
+                    "is_impossible": false,
+                    "question": "Njeri alipanda Ndege kutoka wapi?",
+                    "answers": [
+                        {
+                          "text": "Melbourne",
+                          "answer_start": 71
+                    }
+               ]
+           }
+      ]
+    }, 
+    {
+       "context": "Sokoni ni pahali pa kuuza vitu au kununua vitu au vyakula mbalimbali. Kule nyumbani soko letu linaitwa zaidi market, soko pia huuza vitu mbalimbali kama viatu na bidhaa zingine kadhalika.", 
+       "qas": [
+           {
+               "id": "00002",
+               "is_impossible": false,
+               "question": "Wanunuzi bidhaa huenda  kununua  bidhaa wapi?",
+               "answers": [
+                    {
+                       "text": "Sokoni",
+                       "answer_start": 34
+                    }
+               ]
+           }
+      ]
+   }, 
+    {
+       "context": "Nyasi katika vilima vya Masosa bado zilikuwa na umande asubuhi hiyo. Kondoo na mbuizi wa Babu Nyakebagendi waliendelea kuzinusanusa nyasi hizo huku wakizunguka kutoka sehemu moja ya vilima hadi nyingine.", 
+       "qas": [
+           {
+               "id": "00003",
+               "is_impossible": false,
+               "question": "Nyasi katika vilima vya Masosa bado zilikuwa na nini?",
+               "answers": [
+                    {
+                       "text": "Umande",
+                       "answer_start": 36
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Zaidi ya kuzamia taaluma zao mbalimbali, ipo haja kwa vijana kujifundisha kazi mbalimbali za mikono. Hatua hii itawapa njia mbadala za kujipatia riziki hasa ikizingatiwa mabadiliko ya mara kwa mara katika mfumo wa maisha.", 
+       "qas": [
+           {
+               "id": "00004",
+               "is_impossible": false,
+               "question": "Ni kazi zipi zitawapa vijana njia mbadala ya kujipatia riziki?",
+               "answers": [
+                    {
+                       "text": "Mikono",
+                       "answer_start": 30
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Baraza la Magavana linawazia kwenda mahakamani kupinga agizo ambalo huhitaji magavana kutoingia afisini wanaposhtakiwa kwa madai ya ufisadi.", 
+       "qas": [
+           {
+               "id": "00005",
+               "is_impossible": false,
+               "question": "Ni baraza lipi linawazia kwenda mahakamani?",
+               "answers": [
+                    {
+                       "text": "Magavana",
+                       "answer_start": 39
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Hii ni baada ya ripoti kutoka kwa mahakama ya Kadhi kuonyesha kuwa eneo la Pwani limekuwa na zaidi ya talaka 5,000 kutoka Januari hadi Septemba mwaka huu.", 
+       "qas": [
+           {
+               "id": "00006",
+               "is_impossible": false,
+               "question": "Mahakama ya Kadhi imekuwa na talaka zaidi ya 5000 eneo lipi?",
+               "answers": [
+                    {
+                       "text": "Pwani",
+                       "answer_start": 41
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wadadisi wanasema kwa jaribio hilo la kuwaomba madiwani wasimtimue Bw Sonko, ambaye anakabiliwa na kesi ya wizi wa mamilioni ya pesa. Rais pia amekosa msimamo thabiti kuhusu vita dhidi ya ufisadi na uongozi duni.", 
+       "qas": [
+           {
+               "id": "00007",
+               "is_impossible": false,
+               "question": "Ni nani anakabiliwa na wizi wa mamilioni ya pesa?",
+               "answers": [
+                    {
+                       "text": "Sonko",
+                       "answer_start": 43
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Soko ni mahali pa wazi penye watu wengi ambapo watu huuza na kununua bidhaa. Siku moja mama yangu alisema kuwa tutaenda naye sokoni. Siku hiyo niliongojea kwa mali na ghamu ilikuwa siku ya jumamosi kiangazi ilikua kali. Tulikaa chini ya miti ili kuzuia jua iache kutuchoma.", 
+       "qas": [
+           {
+               "id": "00008",
+               "is_impossible": false,
+               "question": "Ni wapi mahali  wazi penye watu wengi?",
+               "answers": [
+                    {
+                       "text": "Soko",
+                       "answer_start": 45
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Madawa ya kulevya ni dawa ambayo mtu hutumia kwa njia isiyofaa na inayo muumiza mtu yeyote ule anayezitumia na kwa njia tofauti tofauti. Kando na hayo, ukitumia madawa ya kulenya inaleta madhara mbaya na madhara yanayoudhi na kuhatarisha maisha ya binadamu.", 
+       "qas": [
+           {
+               "id": "00009",
+               "is_impossible": false,
+               "question": "Ni dawa zipi hutumiwa kwa njia isiyofaa na humiza mtu?",
+               "answers": [
+                    {
+                       "text": "Kulevya",
+                       "answer_start": 46
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kwa hakika dawa za kulevya huleta madhara mengi. Dawa hizi huleta madhara kwa jamii, nchi, dunia na hata kwa serikali ya nchi yetu na nchi zingine. Dawa hizi ni kama vile sigara, bangi na dawa zingine.", 
+       "qas": [
+           {
+               "id": "00010",
+               "is_impossible": false,
+               "question": "Ni dawa gani huleta madhara kwa vijana wa mjini na wa mashambani?",
+               "answers": [
+                    {
+                       "text": "Kulevya",
+                       "answer_start": 47
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mihadarati ni dawa ambazo zinapotumika huadhiri mwili na ubongo wa mtu. Mihadarati ina madhara mengi katika mwili wa binadamu. Madhara haya ni kama vile madhara kwa mwananchi kibinafsi na kwa nchi nzima. Madhara kwa mwananchi ni kama vile upungufu wa akili, magonjwa na nyinginezo, ilihali kwa nchi ni kama vile upungufu wa pesa na nyingine.", 
+       "qas": [
+           {
+               "id": "00011",
+               "is_impossible": false,
+               "question": "Mihandarati huadhiri nini ya mtu?",
+               "answers": [
+                    {
+                       "text": "Ubongo",
+                       "answer_start": 48
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mihadarati ni dawa ambazo zinapotumika huadhiri mwili na ubongo wa mtu. Mihadarati ina madhara mengi katika mwili wa binadamu. Madhara haya ni kama vile madhara kwa mwananchi kibinafsi na kwa nchi nzima. Madhara kwa mwananchi ni kama vile upungufu wa akili, magonjwa na nyinginezo, ilihali kwa nchi ni kama vile upungufu wa pesa na nyingine.", 
+       "qas": [
+           {
+               "id": "00012",
+               "is_impossible": false,
+               "question": "Mihadarati ni dawa ambazo zinapotumika huadhiri nini?",
+               "answers": [
+                    {
+                       "text": "Mwili",
+                       "answer_start": 49
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Vilevile, dawa za kulevya huingia mwilini mwetu kwa njia mbalimbali kama vile kukula,kupumua, kudunga mwilini na hata kumeza kama tembe. Madhara yanayoletwa na madawa ya kulenya ni kama vile kupoteza ufahamu, kutokua na nguvu mwilini, kukuwa na urahisi wa kuingiliwa na magonjwa kama saratani, ukimwi, ghonoria na hata kuna uwezekano wa kupatwa na corona.", 
+       "qas": [
+           {
+               "id": "00013",
+               "is_impossible": false,
+               "question": "Ni dawa zipi huingia mwilini kwa kula, kupumua, kudunga na kumeza?",
+               "answers": [
+                    {
+                       "text": "Kulevya",
+                       "answer_start": 50
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Soko ni mahali pa wazi penye watu wengi ambapo watu huuza na kununua bidhaa. Siku moja mama yangu alisema kuwa tutaenda naye sokoni. Siku hiyo niliongojea kwa mali na ghamu ilikuwa siku ya jumamosi kiangazi ilikua kali. Tulikaa chini ya miti ili kuzuia jua iache kutuchoma.", 
+       "qas": [
+           {
+               "id": "00014",
+               "is_impossible": false,
+               "question": "Ni nini mahali pa wazi penye watu wengi?",
+               "answers": [
+                    {
+                       "text": "Soko",
+                       "answer_start": 51
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Soko ni mahali pa wazi penye watu wengi ambapo watu huuza na kununua bidhaa. Siku moja mama yangu alisema kuwa tutaenda naye sokoni. Siku hiyo niliongojea kwa mali na ghamu ilikuwa siku ya jumamosi kiangazi ilikua kali. Tulikaa chini ya miti ili kuzuia jua iache kutuchoma.", 
+       "qas": [
+           {
+               "id": "00015",
+               "is_impossible": false,
+               "question": "Ni nini iko na bidhaa kama vitunguu na mayai?",
+               "answers": [
+                    {
+                       "text": "Soko",
+                       "answer_start": 52
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Katika mwaka huo wa 1980 Marekani ilitaka mataifa ya ulimwengu kususia michezo ya Olimpiki yaliyopangwa kufanyika Moscow, Urusi.", 
+       "qas": [
+           {
+               "id": "00016",
+               "is_impossible": false,
+               "question": "Michezo ya Olimpiki ilipangwa kufanyika wapi?",
+               "answers": [
+                    {
+                       "text": "Moscow",
+                       "answer_start": 53
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Huku wakenya wakiendelea kumpatia mkono wa buriani hayati Daniel Moi rais wa pili wa jamhuri ya Kenya, ni mengi yatakumbukwa kumhusu kama kiongozi aliyetawala kwa zaidi ya mwingo miwili.", 
+       "qas": [
+           {
+               "id": "00017",
+               "is_impossible": false,
+               "question": "Wakenya wanaendelea kumpa hayati  Raisi Daniel Moi mkono wa nini?",
+               "answers": [
+                    {
+                       "text": "Buriani",
+                       "answer_start": 54
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kwa muda sasa ninasoma jumbe katika kumbi mbalimbali za mitandao ya kijamii kuhusu kutolipwa kwa watahini kufikia sasa. Hili linashangaza kwamba halijafanyika muda huu wote tangu kutangazwa kwa matokeo ya mtihani. Yaani, pakiwa na watu wasiopaswa kucheleweshwa malipo yao hata chembe ni wananchi hawa wazalendo ambao hujitolea kufa na kupona kulisaidia taifa lao na kuindoshea wizara ya elimu aibu.", 
+       "qas": [
+           {
+               "id": "00018",
+               "is_impossible": false,
+               "question": "Ni nani hawajalipwa kufikia sasa?",
+               "answers": [
+                    {
+                       "text": "Watahini",
+                       "answer_start": 55
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kalameni eneo hili alibubujikwa na machozi na kijitupa miguuni mwa demu kumuomba asimteme lakini hilo halikusaidia kitu.", 
+       "qas": [
+           {
+               "id": "00019",
+               "is_impossible": false,
+               "question": "Kalameni alibubujikwa na nini?",
+               "answers": [
+                    {
+                       "text": "Machozi",
+                       "answer_start": 56
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wakati nikiwa nafikiri nimeyaona maajabu yote duniani, ya Firauni na ya Musa, Vera Sidika kaibuka na makubwa yaliyoniacha mdomo waaa! Hewala na mwanzo pongezi za dhati kwa bibiye kujifungua mtoto wa kike.", 
+       "qas": [
+           {
+               "id": "00020",
+               "is_impossible": false,
+               "question": "Vera Sindika alijifungua mtoto wa jinsia gani?",
+               "answers": [
+                    {
+                       "text": "Kike",
+                       "answer_start": 57
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Shule katika eneo la kaskazini mwa Kenya zinakabiliwa na wakati mgumu kuendesha masomo, baada ya Wizara ya Elimu kuhamisha walimu kufuatia visa vya mashambulizi ya kigaidi.", 
+       "qas": [
+           {
+               "id": "00021",
+               "is_impossible": false,
+               "question": "Nani walihamishwa baada ya mashambulizi ya kigaidi?",
+               "answers": [
+                    {
+                       "text": "Walimu",
+                       "answer_start": 58
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Katika muda wa wiki hizi mbili usajili wa wanafunzi wa kidato cha kwanza unaendelea katika shule mbalimbali za upili nchini. Katika usajili huu, vyombo vya habari vinaendelea kuanganzia visa mbalimbali vya wanafunzi wenye uhitaji kwelikweli ambao yaelekea wakikosa kusaidiwa, huenda wakaishia kutojiunga na shule za upili kabisa. Inasikitisha kwamba katika huu uhitaji. Kumekuwa na wazazi ambao kabisa hawakuweza hata kugharamia sare za watoto. Ninawashukuru Wakenya ambao kama kawaida wamejitokeza kutoka sehemu mbalimbali kuwasaidia watoto hawa.", 
+       "qas": [
+           {
+               "id": "00022",
+               "is_impossible": false,
+               "question": "Kuna nani ambao hawakuweza kugharamia sare za watoto?",
+               "answers": [
+                    {
+                       "text": "Wazazi",
+                       "answer_start": 59
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kwanza kabisa ningependa kuwashukuru maafisa wa usalama kwa kazi njema ambayo wamekuwa wakifanya. Hii ni kwa sababu wamekuwa wakifanya kazi bila ubaguzi wowote. Pia wamekuwa wakilinda usalama wa wananchi wote huku wakiwasihi wananchi wasikiuke sheria kwa njia yoyote.", 
+       "qas": [
+           {
+               "id": "00023",
+               "is_impossible": false,
+               "question": "Ni maafisa wepi wanapewa shukrani kwa kazi njema?",
+               "answers": [
+                    {
+                       "text": "Usalama",
+                       "answer_start": 60
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Bila kuupoteza muda ningependa kwenda moja kwa moja mpaka kwenye mada ya leo. Katika mtihani wa kidato cha nne uliofanyika mwaka jana, matokeo hayakuwa ya kuridhisha mno. Shule hii ina uzoefu wa kupeleka wanafunzi karibia wote chuo kikuuu. Mwaka huu ni kinyume kabisa.", 
+       "qas": [
+           {
+               "id": "00024",
+               "is_impossible": false,
+               "question": "Shule hiyo ina mazoea ya kupeleka karibu wote wapi?",
+               "answers": [
+                    {
+                       "text": "Chuo kikuu",
+                       "answer_start": 61
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wageni waheshimiwa, wakuu wa elimu, wauguzi, walimu, wazazi na wanafunzi hamjambo. Nimefurahi mno na kuhuridhikia kufika kwenu kwenye mhandara huu kuzungumzia suala muhimu la maradhi ya waba. Ugonjwa huu umewala wakubwa kwa wadogo. Kila mja amezishuhudia hasara ambazo zimesababishwa na maradhi haya. Swali ni je, tufanyeje kukabiliana na uele huu?chukua hatua popote ulipo. Kumbuka hatua huanza na mtu binafsi.", 
+       "qas": [
+           {
+               "id": "00025",
+               "is_impossible": false,
+               "question": "Hasara zimesababishwa na maradhi yapi?",
+               "answers": [
+                    {
+                       "text": "waba",
+                       "answer_start": 62
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mzee Jomo Kenyatta, hadi hii yaa sasa, zimekuwa zikisisitiza umuhimu wa kuendeleza kilimo. Mzee Kenyatta alikuwa na kauli muhimu akiwasihi wananchi kurudi mashambani, lakini wengi hawakulikumbatia, na kilichofua tia ni watu kukimbilia miji mikuu na kuwaacha wazee mashambani.", 
+       "qas": [
+           {
+               "id": "00026",
+               "is_impossible": false,
+               "question": "Nani aliwasihi wananchi kurudi mashambani?",
+               "answers": [
+                    {
+                       "text": "Mzee Kenyatta",
+                       "answer_start": 63
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wanawake wengi nchini Kenya wana simu za mkono kuliko wanaume, ripoti iliyoandaliwa na Shirika la Tay wimu Nchini (KNES), imeonyesha NAIROBI Rumunu ni mojawapo ya chombo Pia, ripoti hii ya Sensa ilielezea zai ambacho hutumika sana katika mawasi- di kuwa kufikia mwaka wa 2019.", 
+       "qas": [
+           {
+               "id": "00027",
+               "is_impossible": false,
+               "question": "Wanawake wengi nchini Kenya wanamiliki nini?",
+               "answers": [
+                    {
+                       "text": "Simu.",
+                       "answer_start": 64
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Hofu imezidi kuhusu uwezekano wa hasara kubwa kwa wakulima katika kaunti za Kisumu na Nyeri, baada ya makundi ya nzige kufika na kuanza kuvamia mashamba jumanne jioni.", 
+       "qas": [
+           {
+               "id": "00028",
+               "is_impossible": false,
+               "question": "Ni nini imevamia mashamba katika kaunti za Nyeri na Kisumu?",
+               "answers": [
+                    {
+                       "text": "Nzige.",
+                       "answer_start": 65
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Chama cha Walimu wa Shule za Upili na Vyuo Anuwai (KUPPET) kimetoa wito kwa wanasiasa kutoka Kaskazini Mashari- tia uvamizi wa kigaidi uliowalenga. ki wakome kuchochea uvamizi dhidi ya Hatua ya TSC ilichochewa na kisa cha walimu ambao si wa asili ya eneo hilo. Januari 13 ambapo wahalifu waliojihami Walimu wamekuwa wakitoroka eneo vikali waliwaua walimu watatu wa kiume hilo kutokana na ukosefu wa usalama un katika kituo cha Kamuthe. aosababishwa na uvamizi wa mara kwa Hata hivyo, viongozi wa eneo hilo mara wa makundi ya kigaidi.", 
+       "qas": [
+           {
+               "id": "00029",
+               "is_impossible": false,
+               "question": "Chama cha walimu wa shule ya upili na vyuo anuwai huitwaje?",
+               "answers": [
+                    {
+                       "text": "KUPPET.",
+                       "answer_start": 66
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Babake Brian Kibet Bera, kijana alive- Anahitaji tu matibabu,” akasema Bw Bera wa mwaka wa tano anayesomea uhandisi kulingana naye, nidhamu ya Brian ndi ingia Ikulu ya Nairobi mnamo Jumatatu alipohojiwa kwenye Runinga ya Citizen katika Chuo Kikuu cha Jomo Kenyatta yo ilimwezesha kufanya vyema kwenye jioni akiwa na nia ya kumuua Rais Uhuru mano sumanne usiku.", 
+       "qas": [
+           {
+               "id": "00030",
+               "is_impossible": false,
+               "question": "Brian Kibet Bera aliingia wapi?",
+               "answers": [
+                    {
+                       "text": "Ikulu.",
+                       "answer_start": 67
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Prof Magoha alisema walimu ambao Shabaab ambao wamekuwa wakivamia ugaidi. Takriban walimu 2,340 ambao Waziri wa Elimu alitangaza kuwa wale ni wenyeji pamoja na wale ambao si Kaskazini Mashariki mwa Kenya.", 
+       "qas": [
+           {
+               "id": "00031",
+               "is_impossible": false,
+               "question": "Takriban walimu wangapi waliondolewa na TSC?",
+               "answers": [
+                    {
+                       "text": "2340.",
+                       "answer_start": 68
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Tulipofika kwenye ziwa, nilitishika kwa urembo niliouona. Sehemu kubwa ilikuwa kama bustani la maua ya waridi. Heroe walikuwa wengi kupindukia. Kwa mbali tuliwaona viboko wawili majini. Tulitumia darubini ili kuona vizuri. Tuliona kundi la twiga wakitembea. Nilipendezwa sana na ngozi yao. Ilikuwa na maumbo ya kupendeza.", 
+       "qas": [
+           {
+               "id": "00032",
+               "is_impossible": false,
+               "question": "Waliwaona viboko wangapi majini?",
+               "answers": [
+                    {
+                       "text": "Wawili",
+                       "answer_start": 74
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Tulipokua mbali tuliwaona viboko wawili yao. Ilikuwa na maumbo ya kupendeza.", 
+       "qas": [
+           {
+               "id": "00033",
+               "is_impossible": false,
+               "question": "Waliwaona viboko wangapi majini?",
+               "answers": [
+                    {
+                       "text": "Wawili",
+                       "answer_start": 80
+                    }
+               ]
+           }
+      ]
+   },  
+   {
+       "context": "Nilipokuwa mdogo nilienda kuwatembelea babu na nyanya yangu. Waliishi Katika nchi ya Kenya mji mmoja onaitwa Nakuru. Tulipanda ndege kutoka mji wa Melbourne hadi Dubai. Pale Dubai tulichukua ndege ya kutupeleka mpaka mji mkuu wa Kenya Nairobi.", 
+       "qas": [
+           {
+               "id": "00034",
+               "is_impossible": false,
+               "question": "Njeri aliwatembelea babu yake lini?",
+               "answers": [
+                    {
+                       "text": "alipokuwa mdogo",
+                       "answer_start": 82
+                    }
+               ]
+           }
+      ]
+   }, 
+   {
+       "context": "Tulipofika kwenye lango la ziwa la Nakuru tuliwaona ngiri, pundamilia na nyani. Tulilipa ada na kufunguliwa lango kisha tukatumbukia ndani ya msitu.", 
+       "qas": [
+           {
+               "id": "00035",
+               "is_impossible": false,
+               "question": "Waliona wanyama wagani njiani wakienda Nakuru?",
+               "answers": [
+                    {
+                       "text": "swara, pundamilia na nyani",
+                       "answer_start": 85
+                    }
+               ]
+           }
+      ]
+   }, 
+   {
+       "context": "Rangi nyeupe ni alama ya Amani, Kumwagika kwa damu wakati wa kupigania uhuru kunaonyeshwa kwa rangi Nyekundu, Rangi iliyo juu katika bendera ya Kenya huwa Nyeusi.", 
+       "qas": [
+           {
+               "id": "00036",
+               "is_impossible": false,
+               "question": "Rangi nyeupe ni alama ya?",
+               "answers": [
+                    {
+                       "text": "Amani",
+                       "answer_start": 86
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kumwagika kwa damu wakati wa kupigania uhuru kunaonyeshwa kwa rangi Nyekundu, Rangi iliyo juu katika bendera ya Kenya huwa Nyeusi. Rangi nyingine ni ile nyekundu. Nayo ni ishara iliyomwagika wakati wa kupigania uhuru wetu. Kuna pia rangi ya kijani. Ni rangi inayoonyesha mazao ya nchi yetu. Vile vile kuna rangi nyeupe. Ni rangi inayowakilisha amani katika nchi yetu.", 
+       "qas": [
+           {
+               "id": "00037",
+               "is_impossible": false,
+               "question": "Kumwagika kwa damu wakati wa kupigania uhuru kunaonyeshwa kwa rangi?",
+               "answers": [
+                    {
+                       "text": "Nyekundu",
+                       "answer_start": 89
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Bendera ya Kenya ina rangi zifuatozo: Rangi nyeusi, rangi hiyo huwakilisha rangi ya wananchi. Rangi nyingine ni ile nyekundu. Nayo ni ishara iliyomwagika wakati wa kupigania uhuru wetu. Kuna pia rangi ya kijani. Ni rangi inayoonyesha mazao ya nchi yetu. Vile vile kuna rangi nyeupe. Ni rangi inayowakilisha amani katika nchi yetu.", 
+       "qas": [
+           {
+               "id": "00038",
+               "is_impossible": false,
+               "question": "Ni rangi gani inayoonyesha mazao ya nchi yetu?",
+               "answers": [
+                    {
+                       "text": "kijani",
+                       "answer_start": 90
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kitito alizaliwa mnamo 1969 katika mtaa wa Floringi, eneo la Bondeni, Kisiwani Mombasa akiwa mtoto wa sita kati ya wanane katika familia ya marehemu Mzee Omar Mohamed na Bi Khadijah Mohamed.", 
+       "qas": [
+           {
+               "id": "00039",
+               "is_impossible": false,
+               "question": "Kitito alizaliwa mwaka upi?",
+               "answers": [
+                    {
+                       "text": "1969",
+                       "answer_start": 91
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Baraza la Magavana linawazia kwenda mahakamani kupinga agizo ambalo huhitaji magavana kutoingia afisini wanaposhtakiwa kwa madai ya ufisadi.", 
+       "qas": [
+           {
+               "id": "00040",
+               "is_impossible": false,
+               "question": "Baraza la magavana linawazia kwenda wapi?",
+               "answers": [
+                    {
+                       "text": "Mahakamani",
+                       "answer_start": 91
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wahubiri wa dini ya Kiisilamu wamesema kuwa warsha za kutoa mafunzo kuhusu ndoa na ngono zitawatayarisha vijana kabla kuoa au kuolewa ili kupunguza kesi za talaka.", 
+       "qas": [
+           {
+               "id": "00041",
+               "is_impossible": false,
+               "question": "Eneo la pwani lina talaka zaidi ya  ngapi?",
+               "answers": [
+                    {
+                       "text": "5,000",
+                       "answer_start": 92
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Hatua ya Rais Uhuru Kenyatta kujaribu kuvuruga mpango wa madiwani wa Nairobi kumtimua Gavana Mike Sonko, imetajwa kuwa ishara ya kutojitolea kwake katika kupigana na ufisadi na pia kuhakikisha uongozi bora.", 
+       "qas": [
+           {
+               "id": "00042",
+               "is_impossible": false,
+               "question": "Uhuru anataka kuvuruga mipango ya madiwani wa wapi?",
+               "answers": [
+                    {
+                       "text": "Nairobi",
+                       "answer_start": 101
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kabla bidhaa kuuzwa, kabla mama kuwasili mimi huchunguza bei kwanza kabla kumwuzia kitu chochote kwa mtu yeyote. Mama anaweza kuniacha nikauze kwa vile anajua mimi ni mwaminifu kama mchana na kwa vile mpole kama mwanakondoo.", 
+       "qas": [
+           {
+               "id": "00043",
+               "is_impossible": false,
+               "question": "Yeye huchunguza nini kabla ya kumuuzia mtu chochote?",
+               "answers": [
+                    {
+                       "text": "Bei",
+                       "answer_start": 94
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Gavana wa Machakos  Alfred Mutua, amefichua jinsi alivyomushtaki Naibu Rais kwa Kiongozi wa ODM Raila Odinga, akidai kwamba alitishiwa maisha na Dkt William Ruto. Alipoenda kupiga ripoti jana kwa polisi akitaka wanchunguze na kumkamata Naibu Rais.", 
+       "qas": [
+           {
+               "id": "00044",
+               "is_impossible": false,
+               "question": "Gavana wa Machakos Alfred Mutua alitishiwa maisha na nani?",
+               "answers": [
+                    {
+                       "text": "Dkt William Ruto",
+                       "answer_start": 93
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wakulima wa mahindi katika eneo la bonde la Ufa huenda wakapata hasara kubwa kufuatia mvua kubwa inayoendelea kunyesha. Mvua hiyo imeharibu zao hilo na kutishia kusababisha uhaba wa chakula nchini.", 
+       "qas": [
+           {
+               "id": "00045",
+               "is_impossible": false,
+               "question": "Wakulima wa mahindi Bonde la ufa watapata nini?",
+               "answers": [
+                    {
+                       "text": "hasara kubwa",
+                       "answer_start": 95
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Hali  ya wasiwasi imewakumba wakulima katika eneo la Kaskazini mwa bonde la Ufa, baada ya mamilioni ya nzige kulivamia eneo hilo, huku wakitayarisha kwa msimu wa upanzi.", 
+       "qas": [
+           {
+               "id": "00046",
+               "is_impossible": false,
+               "question": "Hali ya wasiwasi imewakumba nani?",
+               "answers": [
+                    {
+                       "text": "wakulima",
+                       "answer_start": 96
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Visa vya watoto kujitoa uhai vimezidi kuripotiwa katika siku za hivi majuzi. Kwa miaka michache sasa, kumekua na matukio chungu nzima ambapo Watoto wadogo wanapatikana wamejitia kitanzi au kunywa sumu hadi wakafariki.", 
+       "qas": [
+           {
+               "id": "00047",
+               "is_impossible": false,
+               "question": "Visa vya nani kujitoa uhai vimezidi?",
+               "answers": [
+                    {
+                       "text": "watoto",
+                       "answer_start": 97
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Shamrashamra za krismasi huacha mifuko ya watu imesinyaa kila mwaka.Lakini ukweli ni kwamba krismasi ni somo ni jinsi unapanga mikakati yako, Krismasi haitokei kama dharura.", 
+       "qas": [
+           {
+               "id": "00048",
+               "is_impossible": false,
+               "question": "Shamrashamra za Krismasi huwacha nini ya watu imesinyaa?",
+               "answers": [
+                    {
+                       "text": "mifuko",
+                       "answer_start": 98
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Bei hizo ziliwekwa baada ya msako mkuu uliofanyika Agosti mwaka 2018, ili kuzuia wahudumu kupandisha bei kiholela.", 
+       "qas": [
+           {
+               "id": "00049",
+               "is_impossible": false,
+               "question": "Msako mkuu ulifanyika lini?",
+               "answers": [
+                    {
+                       "text": "Agosti 2018",
+                       "answer_start": 99
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Walaji ugali katika eneo la Magharibi wamepata afueni baada ya bei ya unga wa mahindi kushuka.", 
+       "qas": [
+           {
+               "id": "00050",
+               "is_impossible": false,
+               "question": "Walaji nini wamepata afueni?",
+               "answers": [
+                    {
+                       "text": "ugali",
+                       "answer_start": 100
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Serikali ya Kaunti ya Wajir ime panga kutumia wafanyakazi wake wote walio na taaluma ya ualimu kutoka kila idara kujaza pengo lililoachwa wazi na walimu wa kutoka maeneo ya nje waliohama kaunti hiyo kwa kuhofia ugaidi.", 
+       "qas": [
+           {
+               "id": "00051",
+               "is_impossible": false,
+               "question": "Walimu walihama kwa kuhofia nini?",
+               "answers": [
+                    {
+                       "text": "ugaidi",
+                       "answer_start": 101
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wabunge mnamo Jumatatu alasiri walivunja sheria za bunge na kuimba nyimbo za kumsifu Rais Mstaafu marehemu Daniel arap Moi bungeni wakati wa kikao maalam cha kumuombeleza kiongozi huyo.", 
+       "qas": [
+           {
+               "id": "00052",
+               "is_impossible": false,
+               "question": "Wabunge walivunja sheria za bunge lini?",
+               "answers": [
+                    {
+                       "text": "Jumatatu alasiri",
+                       "answer_start": 102
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Pengine umekumbana na video fupi iliyoenea mtandaoni inayoonyesha kemikali fulani inayosemekana Kusafisha ngozi ya wanawake Weusi na kuwabadilishana kuwa wazungu.", 
+       "qas": [
+           {
+               "id": "00053",
+               "is_impossible": false,
+               "question": "Nini inasafisha ngozi ya wanawake weusi?",
+               "answers": [
+                    {
+                       "text": "kemikali",
+                       "answer_start": 103
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Alipoenda kupiga ripoti jana kwa polisi akitaka wanchunguze na kumkamata Naibu Rais, ilifichuka alikuwa amekimbilia kwa  Bw Odinga siku ambapo anadai  alitishiwa maisha na Dkt Ruto katika lulu ya Nairobi.", 
+       "qas": [
+           {
+               "id": "00054",
+               "is_impossible": false,
+               "question": "Alienda lini kwa polisi kupiga ripoti?",
+               "answers": [
+                    {
+                       "text": "jana",
+                       "answer_start": 104
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mvua hiyo imetatiza shughuli ya kuvuna zao hilo iliyoanza mnamo Oktoba na inaendelea hadi mwezi ujao, huku Wizara ya Kilimo ikielezea hofu kwamba huenda isifikishe kiwango kilichopangiwa cha magunia 21 ya mahindi msimu huu.", 
+       "qas": [
+           {
+               "id": "00055",
+               "is_impossible": false,
+               "question": "Shughuli ya kuvuna zao hilo ilianza lini?",
+               "answers": [
+                    {
+                       "text": "Oktoba",
+                       "answer_start": 105
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wadudu hao walifika katika eneo hili Jumanne jioni kutoka cherangany, ambapo tuna hofu kwamba wataharibu mazao yetu ikiwa watataga mayai na kuongeza idadi yao akasema Bw Eias Kiptoo anayekuza mboga na nyanya katika eneobunge la Moibeki Moiben.", 
+       "qas": [
+           {
+               "id": "00056",
+               "is_impossible": false,
+               "question": "Wadudu hao walifika katika eneo hilo lini?",
+               "answers": [
+                    {
+                       "text": "Jumanne jioni",
+                       "answer_start": 106
+                    }
+               ]
+           }
+       ]
+    },
+    {
+       "context": "Huwa wengi wetu wanamini kwamba watoto wanajitoa uhai kwa wingi kutokana na wazazi walivyowatelekeza na kukosa muda wa kushauriana nao kuhusu mambo wanayopitia kimaisha.", 
+       "qas": [
+           {
+               "id": "00057",
+               "is_impossible": false,
+               "question": "Watoto wanajitoa uhai kutokana na nani walivyowatelekeza?",
+               "answers": [
+                    {
+                       "text": "wazazi",
+                       "answer_start": 107
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Inajulikana kuwa kila tarehe 25 Desemba ni sherehe ya kuzaliwa kwa Bwana Wetu Yesu Kristo. Zaidi, Krismasi inatufundisha kuwa Mungu wetu ni Mungu wa mipango. Hakurupuki, habahatishi wala hachezi bahati nasibu.", 
+       "qas": [
+           {
+               "id": "00058",
+               "is_impossible": false,
+               "question": "Nani hachezi bahati nasibu?",
+               "answers": [
+                    {
+                       "text": "Mungu",
+                       "answer_start": 108
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wakazi hao wanaozuru maeno mbalimbali ya burudani kusherehekea sikukuu ya mwaka mpya, walilalamikia kutozwa ada za juu na kupewa maneno machafu na wahudumu hao wanapo kata kulipa ada zaidi.", 
+       "qas": [
+           {
+               "id": "00059",
+               "is_impossible": false,
+               "question": "Wakazi wanazuru nini?",
+               "answers": [
+                    {
+                       "text": "maeneo ya burudani",
+                       "answer_start": 109
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Bei zilishuka kufuatia ukosefu wa soko la mahindi kwani kuna bidhaa hiyo tele inayoingizwa nchini kwa bei nafuu kutoka Uganda, wakati ambapo  mavuno ya humu nchini pia yamejaa.", 
+       "qas": [
+           {
+               "id": "00060",
+               "is_impossible": false,
+               "question": "Nini ilishuka kufuatia ukosefu wa soko la mahindi?",
+               "answers": [
+                    {
+                       "text": "bei",
+                       "answer_start": 110
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wasimamizi wa idara za kaunti waliagizwa kuandika jina la mfanyakazi,kisomo chao, historia ya ajira na kazi wanazofanya kwa sasa.", 
+       "qas": [
+           {
+               "id": "00061",
+               "is_impossible": false,
+               "question": "Wasimamizi wa idara za kaunti waliagizwa kuandika jina la nani?",
+               "answers": [
+                    {
+                       "text": "mfanyakazi",
+                       "answer_start": 111
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wakiongozwa na Mbunge wa jara Sophia Abdi Noor, wabunge hao waliimba nyimbo “Tawala Kenya Tawala Ooh Kanu Yajenga Nchi naFimbo ya Nyayo kwa takriban dakika 10 Spika Justin Muturi akitizama huku akitabasamu.", 
+       "qas": [
+           {
+               "id": "00062",
+               "is_impossible": false,
+               "question": "Nani mbunge wa Ijara?",
+               "answers": [
+                    {
+                       "text": "Sophia Abdi Noor",
+                       "answer_start": 112
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Katika video hiyo, mwanamke fulani ambaye yuko nusu uchi anaonekana akiwa amejitumbukiza ndani ya beseni lililojaa kemikali hii huku mwanamke mwingine akionekana kuonyesha jinsi bidhaa hii inavyoondoa rangi ya ju ya ngozi ya binti huyu.", 
+       "qas": [
+           {
+               "id": "00063",
+               "is_impossible": false,
+               "question": "Bidhaa hiyo iliondoa rangi ya juu ya ngozi ya nani?",
+               "answers": [
+                    {
+                       "text": "binti huyo",
+                       "answer_start": 113
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kupitia taarifa aliyoandikisha katika Kituo cha Polisi cha Kilimani jijini Nairo¬bi, Dkt Mutua alisema Bw Odinga alikuwa amesimama karibu tukio hilo lilipotende¬ka wakati wa maankuli ya jioni kwa hes¬hima Waziri Mkuu wa Barbados, Mia Motley wiki iliyopita.", 
+       "qas": [
+           {
+               "id": "00064",
+               "is_impossible": false,
+               "question": "Aliandikisha taarifa katika kituo gani cha polisi?",
+               "answers": [
+                    {
+                       "text": "Kilimani",
+                       "answer_start": 114
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kidosho wa hapa alikaripiwa na wazee kwa kuchukua mkopo kusaidia mumewe kulipa mahari.", 
+       "qas": [
+           {
+               "id": "00065",
+               "is_impossible": false,
+               "question": "Kidosho alikaripiwa kwa kuchukua nini?",
+               "answers": [
+                    {
+                       "text": "mkopo",
+                       "answer_start": 115
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Kocha wa zamani wa Harambee stars Jacob Ghost Mulee amewataka vijana wa kikosi hicho watumie jukwaa hilo kubwa kujitengenezea maisha ya baadaye.", 
+       "qas": [
+           {
+               "id": "00066",
+               "is_impossible": false,
+               "question": "Jacob alitaka vijana watumie jukwaa hilo kufanya nini?",
+               "answers": [
+                    {
+                       "text": "kujitengenezea maisha",
+                       "answer_start": 116
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Polisi wa eneo la Olenguruone, kure soi kusini wanamsaka mwanamume mmoja anayedaiwa kumnajisi na kumpachika mimba msichana wa shule.", 
+       "qas": [
+           {
+               "id": "00067",
+               "is_impossible": false,
+               "question": "Polisi ni wa eneo gani?",
+               "answers": [
+                    {
+                       "text": "Olenguruone Kuresoi Kusini",
+                       "answer_start": 117
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Zoezi la kuwahesabu watu sensa litaanza agosti 24 na vijana wana matumaini makubwa ya kupata ajira wakati wa shughuli hiyo muhimu ya kitaifa.", 
+       "qas": [
+           {
+               "id": "00068",
+               "is_impossible": false,
+               "question": "Vijana wana matumaini makubwa ya kupata nini?",
+               "answers": [
+                    {
+                       "text": "ajira",
+                       "answer_start": 118
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Chama cha ford Kenya jana kilipinga hatua ya Rais Uhuru Kenyatta kuongezea jopo la BBI muda kuhudumu kikisema kwamba jopo hilo lilimaliza kazi yake.", 
+       "qas": [
+           {
+               "id": "00069",
+               "is_impossible": false,
+               "question": "Chama cha Ford Kenya kilipinga hatua ya nani?",
+               "answers": [
+                    {
+                       "text": "Rais Uhuru Kenyatta",
+                       "answer_start": 119
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Seneta Mutula Kilonzo Junior wa Makueni amejitetea vikali dhidi ya shutuma za kumwakilisha Gavana Mike Sonko kwenye kesi ya ufisadi inayomkabili.", 
+       "qas": [
+           {
+               "id": "00070",
+               "is_impossible": false,
+               "question": "Kesi gani inayomkabili Gavana Mike Sonko?",
+               "answers": [
+                    {
+                       "text": "ufisadi",
+                       "answer_start": 120
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Lililochochea tafakuri zangu ni tangazo la Wizara ya Afya ya Afrika Kusini kwamba wanasayansi wa taifa hilo wametengeza dawa mpya ya kupunguza makali ya HIV.", 
+       "qas": [
+           {
+               "id": "00071",
+               "is_impossible": false,
+               "question": "Taifa gani lilitengeneza dawa mpya ya kupunguza makali ya HIV?",
+               "answers": [
+                    {
+                       "text": "Afrika Kusini",
+                       "answer_start": 121
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wakati mwingi watu na hasa wanaume huwasuta wanawake wanaovalia mavazi mafupi ama yaliyowabana kupindukia wakidai wanawatia kwenye majaribu ya ngono.", 
+       "qas": [
+           {
+               "id": "00072",
+               "is_impossible": false,
+               "question": "Mavazi mafupi na yaliyowabana wanawake huwatia wanaume kwenye nini?",
+               "answers": [
+                    {
+                       "text": "majaribu ya ngono",
+                       "answer_start": 122
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Hata hivyo, baadhi ya watu wanaoishi huvitumia vipande vya ardhi hata viwe vidogo kiasi gani kukiendeleza kilimo na kujiruzuku.", 
+       "qas": [
+           {
+               "id": "00073",
+               "is_impossible": false,
+               "question": "Baadhi ya watu huvitumia vipande vya ardhi kufanya nini?",
+               "answers": [
+                    {
+                       "text": "kukiendeleza kilimo",
+                       "answer_start": 123
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mnamo 2016 ripoti ya aliyekuwa mkaguzi mkuu wa matumizi ya fedha serikalini Edward Ouko ilionyesha kuwa taasisi hii ilikuwa ikimiliki mali ya thamani ya Sh100.7 bilioni.", 
+       "qas": [
+           {
+               "id": "00074",
+               "is_impossible": false,
+               "question": "Mkaguzi mkuu wa matumizi ya fedha serikalini alikua nani?",
+               "answers": [
+                    {
+                       "text": "Edward Ouko",
+                       "answer_start": 124
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Watu wengi mno aghalabu hawaoni thamani yoyote iliyopo katika takataka kama vile chupa za plastiki zilizotupwa na zile za plasi.", 
+       "qas": [
+           {
+               "id": "00075",
+               "is_impossible": false,
+               "question": "Watu wengi hawaoni thamani ya takataka kama gani?",
+               "answers": [
+                    {
+                       "text": "chupa za plastiki",
+                       "answer_start": 125
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Vyombo vya habari hulitumia neno bugia kwa maana ya kunywa hususan pombe.", 
+       "qas": [
+           {
+               "id": "00076",
+               "is_impossible": false,
+               "question": "Neno bugia humaanisha nini?",
+               "answers": [
+                    {
+                       "text": "kunywa pombe",
+                       "answer_start": 126
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Huku kimya chake kikistaajabiwa na mwenzake, Pengo alikuwa shuleni Sidindi akihangaikia masuala ya kutamatisha muhula.", 
+       "qas": [
+           {
+               "id": "00077",
+               "is_impossible": false,
+               "question": "pengo alihangaikia masuala gani?",
+               "answers": [
+                    {
+                       "text": "kutamatisha muhula",
+                       "answer_start": 127
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Inadaiwa kuwa mwili wake ulipatikana maeneo ya Ngara muda mfupi tu baada ya kuondoka studioni karibu na jengo lenye makao makuu ya Jubilee pangani jijini Nairobi.", 
+       "qas": [
+           {
+               "id": "00078",
+               "is_impossible": false,
+               "question": "Mwili wa papa Dennis ulipatikana maeneo gani?",
+               "answers": [
+                    {
+                       "text": "ngara",
+                       "answer_start": 128
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Wabunge Bi Mishi Mboko, Bw Abdulswamad Nassir, Bw Ali Mbogo, Bw Badi Twalib, Bw Omar Mwinyi na spika wa bunge la Kaunti ya Mombasa Hassan Khatri, wako mbioni kusaka umaarufu huku wakisubiri kutawazwa na Bw Joho ambaye ana usemi mkubwa wa siasa za eneo la Pwani.", 
+       "qas": [
+           {
+               "id": "00079",
+               "is_impossible": false,
+               "question": "Nani ana usemi mkubwa wa siasa za eneo la pwani?",
+               "answers": [
+                    {
+                       "text": "Bw Joho",
+                       "answer_start": 129
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Majuzi naibu Rais, William Ruto akihutubia waombolezaji katika mazishi ya Sajini Kipyegon Kenei yaliyofanyika Nakuru, alisema kwamba, anajua kuna njama za kumzuia kwa kila mbinu kuhakikisha hashiriki katika uchaguzi wa 2022.", 
+       "qas": [
+           {
+               "id": "00080",
+               "is_impossible": false,
+               "question": "Mazishi yalikua ya nani?",
+               "answers": [
+                    {
+                       "text": "Sajini Kipyegon Kenei",
+                       "answer_start": 130
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Watafunaji muguka Kaunti ya Lamu watalazimika kusafiri hadi nje ya eneo hilo ili kutafuta bidhaa hiyo, endapo hoja ya kupiga marufuku uraibu huo itapitishwa na Bunge la Kaunti ya Lamu wiki hii.", 
+       "qas": [
+           {
+               "id": "00081",
+               "is_impossible": false,
+               "question": "Watafunaji muguka ni wa kaunti gani?",
+               "answers": [
+                    {
+                       "text": "Lamu",
+                       "answer_start": 131
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Viongozi wa Chama cha ODM sasa wamegawanyika kuhusu ikiwa madiwani wanastahili kumngoa mamlakani Gavana wa Nairobi, Bw Mike Sonko.", 
+       "qas": [
+           {
+               "id": "00082",
+               "is_impossible": false,
+               "question": "Nani Gavana wa Nairobi?",
+               "answers": [
+                    {
+                       "text": "Mike Sonko",
+                       "answer_start": 132
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Viongozi katika Kaunti ya Marsabit wameelezea hofu yao kuhusu hali duni ya usafi katika eneo hilo kutokana na ukosefu wa vyoo.", 
+       "qas": [
+           {
+               "id": "00083",
+               "is_impossible": false,
+               "question": "Hali duni ya usafi imesababishwa na nini?",
+               "answers": [
+                    {
+                       "text": "ukosefu wa vyoo",
+                       "answer_start": 133
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Zawadi hii ilitolewa na Mungu mwenyewe. Mungu alipotaka wana, alimtoa mwana.", 
+       "qas": [
+           {
+               "id": "00084",
+               "is_impossible": false,
+               "question": "Zawadi kuu duniani ilitolewa na nani?",
+               "answers": [
+                    {
+                       "text": "Mungu",
+                       "answer_start": 134
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mshukiwa ambaye mwathiriwa aliambia polisi kuwa ni pasta wa shule yao anasemekana kwenda mafichoni baada ya kugundua kuwa habari zilikuwa zimewafikia polisi.", 
+       "qas": [
+           {
+               "id": "00085",
+               "is_impossible": false,
+               "question": "Mshukiwa alikua nani?",
+               "answers": [
+                    {
+                       "text": "pasta wa shule",
+                       "answer_start": 136
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Duru zasema kuwa kidosho na mpenzi wake walifika kwa wazee kuomba baraka zao ili waanze maisha kama mume na mke baada ya kuhitimu chuoni.", 
+       "qas": [
+           {
+               "id": "00086",
+               "is_impossible": false,
+               "question": "Kidosho na mpenziwe walienda kuomba nini kwa wazee?",
+               "answers": [
+                    {
+                       "text": "baraka",
+                       "answer_start": 137
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mulee ambaye aliongoza kikosi cha mwisho kushiriki michuano hiyo mnamo 2004 ilipofanyika nchini Tunisia alisema ni fursa nyingine ya kimataifa kwa vijana wetu kupata kuonekana hadharani duniani kote.", 
+       "qas": [
+           {
+               "id": "00087",
+               "is_impossible": false,
+               "question": "Michuano ilifanyika nchi gani?",
+               "answers": [
+                    {
+                       "text": "Tunisia",
+                       "answer_start": 138
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Katika miaka ya nyuma, Shirika la Kitaifa la Takwimu limekuwa likitoa nafasi hizo kwa walimu ma watu wengine wenye ajira ya kudumu, huku vijana waliokamilisha masomo katika viwango vya kidato cha nne, vyuo vya kadri na vyuo vikuu wakinyimwa nafasi hizo.", 
+       "qas": [
+           {
+               "id": "00088",
+               "is_impossible": false,
+               "question": "Shirika la kitaifa la Takwimu lilikua likitoa nafasi kwa nani?",
+               "answers": [
+                    {
+                       "text": "walimu",
+                       "answer_start": 139
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Badala yake, chama hicho kinataka kamati ya wataalaamu ibuniwe kuchunguza na kutoa mwelekeo wa jinsi mapendekezo ya ripoti hiyo yatakavyotekelezwa.", 
+       "qas": [
+           {
+               "id": "00089",
+               "is_impossible": false,
+               "question": "Chama hicho kinataka nini kibuniwe?",
+               "answers": [
+                    {
+                       "text": "kamati ya wataalamu",
+                       "answer_start": 140
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mbali na tuhuma za ufisadi, gavana huyo anakabiliwa na shtaka la kuwashambulia polisi wakati alipokuwa akikamatwa majuma mawili yaliyopita.", 
+       "qas": [
+           {
+               "id": "00090",
+               "is_impossible": false,
+               "question": "Gavana huyo anakabiliwa na shtaka la kuwashambulia nani?",
+               "answers": [
+                    {
+                       "text": "polisi",
+                       "answer_start": 141
+                    }
+               ]
+           }
+      ]
+   },
+   {
+       "context": "Mkulima, tukiwa katika makala ya mwisho kuhusu ufugaji wa sungura, leo tunaangazia faida za mkojo wa sungura. Kulingana na utafiti wa wataalamu, mkojo wa sungura una faida kubwa katika kilimo.",
+       "qas": [
+           {
+                "id": "00091",
+                "is_impossible": false,
+                "question": "Mkojo wa nini una faida kubwa katika kilimo?", 
+                "answers": [
+                    {
+                        "text": "Sungura", 
+                        "answer_start": 28
+                    } 
+                 ]
+            }, 
+            {
+                "id": "00092",
+                "is_impossible": false, 
+                "question": "mkojo wa sungura una faida kubwa katika?", 
+                "answers": [
+                     {
+                        "text": "kilimo",
+                        "answer_start": 63
+                     }
+                 ]
+              }, 
+              {
+                 "id": "00093",
+                 "is_impossible": true, 
+                 "question": "Njeri walibebwa na babu yao hadi?", 
+                 "answers": []
+              }
+         ]
+   },
+   {
+       "context": "Babu alitubeba kwa gari lake hadi mji wa Nakuru. Njiani tuliwaona swara, pundamilia na nyani wakila nyasi mwituni. Babu aliahidi kunipeleka katika ziwa la Nakuru kuwaona wanyama zaidi.Niliona miti mingi ambayo sikuweza kuiona Australia. Ilikuwa mirefu na yenye miiba. Babu alinieleza inaitwa mishita.",
+       "qas": [
+           {
+                "id": "00094",
+                "is_impossible": false,
+                "question": "Nani aliwabeba Njeri hadi Nakuru?", 
+                "answers": [
+                    {
+                        "text": "Babu", 
+                        "answer_start": 27
+                    } 
+                 ]
+            }, 
+            {
+                "id": "00095",
+                "is_impossible": false, 
+                "question": "miti mirefu Njeri waliona inaitwa?", 
+                "answers": [
+                     {
+                        "text": "mishita",
+                        "answer_start": 31
+                     }
+                 ]
+              }, 
+              {
+                 "id": "00096",
+                 "is_impossible": true, 
+                 "question": "Njeri walibebwa na babu yao hadi?", 
+                 "answers": []
+              }
+            ]
+        }
+     ]

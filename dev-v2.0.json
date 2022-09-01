@@ -1,0 +1,586 @@
+[
+      {
+           "context": "Mtoto wa kike akimshinda waladi katika mashindano yoyote yale, waladi hukemewa akiambiwa kuwa haifai msichana amshinde. Hiyo ni haki kweli, eti kiumbe mmoja aonwe duni kwa mwingine? Mgala muue na haki umpe jamani.",
+           "qas": [
+               {
+                    "id": "00001", 
+                    "is_impossible": false, 
+                    "question": "Mgala muue na haki?", 
+                    "answers": [
+                       {
+                         "text": "umpe", 
+                         "answer_start": 38
+                       },
+                    {
+                       "text": "haki umpe jamani", 
+                       "answer_start": 74
+                    }
+                 ]
+              }
+         ]
+    },
+    {
+       "context": "Kwa siku, sisi huuza zaidi ya nyanya ishirini. Kwa maana sisi hupata shilingi mia mbili. Shamba tunalotoa haya matunda, lina rotuba nzuri lakini bali si zuri kama halaika.",
+       "qas": [
+           {
+               "id": "00002", 
+               "is_impossible": false, 
+               "question": "Kwa siku wao huuza nyanya ishirini na kupata shilingi ngapi?", 
+               "answers": [
+                    {
+                       "text": "mia mbili", 
+                       "answer_start": 39
+                    }, 
+                    {
+                       "text": "shilingi mia mbili", 
+                       "answer_start": 75
+                    }
+                 ]
+              }
+         ]
+    },
+    {
+       "context": "Bobu na Dobu waliendelea kuwaandama wanyama wale nyuma mpaka mawingu machache yaliyokuwa yametanda mbinguni yalipotanzuka na miale ya jua kuanza kuangaza. Kufikia saa tatu asubuhi umande ulikuwa umeyeyushwa na mionzi ya jua.",
+       "qas": [
+           {
+               "id": "00003", 
+               "is_impossible": false, 
+               "question": "Bobu na Dobu waliwandama nani hadi mawingu yakatanzuka?", 
+               "answers": [
+                    {
+                       "text": "Wanyama", 
+                       "answer_start": 40
+                    }, 
+                    {
+                       "text": "waliwaandama wanyama", 
+                       "answer_start": 76
+                    }
+                 ]
+              }
+          ]
+     }, 
+     {
+       "context": "Usiwahi kuwa na pupa ya kufanikiwa. Kila jambo hufanywa hatua kwa hatua kwa matarajio kwamba milango ya heri itajifungua yenyewe kwa wakati mwafaka. Usithubutu kujenga nyumba yako kwa siku moja baada ya kutazama na kudondoshwa mate na kasri  la jirani. Itaporomoka!.",
+       "qas": [
+           {
+               "id": "00004", 
+               "is_impossible": false, 
+               "question": "Usidhubutu kujenga nini kwa siku moja baada ya kudodoshwa mate na kasri la jirani?", 
+               "answers": [
+                    {
+                       "text": "Nyumba", 
+                       "answer_start": 41
+                    }, 
+                    {
+                       "text": "kujenga nyumba", 
+                       "answer_start": 77
+                    }
+                 ]
+              }
+          ]
+     }, 
+     {
+       "context": "Akizungumza Nairobi jana. Mwenyekiti wa baraza hilo aliye pia Gavana wa Kakamega, Bw Wycliffe Oparanya alisema agizo hilo limeathiri sana shughuli za kaunti tatu ambazo magavana wao wamezuiliwa kuingia afisini.",
+       "qas": [
+           {
+               "id": "00005", 
+               "is_impossible": false, 
+               "question": "Ni nani mwenyekiti  wa baraza la magavana?", 
+               "answers": [
+                    {
+                       "text": "Oparanya", 
+                       "answer_start": 42
+                    }, 
+                    {
+                       "text": "Wycliffe Oparanya", 
+                       "answer_start": 78
+                    }
+                 ]
+              }
+          ]
+     }, 
+     {
+       "context": "Akizungumza katika warsha iliyoandaliwa na shirika la Ta'alluful Quloob katika kituo cha jamii cha Mewa mjini Mombasa, Sheikh Yusuf Adbi alisema vikao hivyo ni majukwaa muhimu vya kuandaa vijana vyema kabla ya kuingia kwenye ndoa.",
+       "qas": [
+           {
+               "id": "00006", 
+               "is_impossible": false, 
+               "question": "Sheikh Yusuf Abdi alisema vikao vinaandaa vijana kuingia wapi?", 
+               "answers": [
+                    {
+                       "text": "Ndoa", 
+                       "answer_start": 43
+                    }, 
+                    {
+                       "text": "kuingia kwenye ndoa", 
+                       "answer_start": 79
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Wachanganuzi wanasema Rais Kenyatta alikiri kuwa uongozi wa Bw Sonko ni duni na usiofaa alipochukua baadhi ya majukumu yake wiki iliyopita.",
+       "qas": [
+           {
+               "id": "00007", 
+               "is_impossible": false, 
+               "question": "Ni nani alikiri kuwa uongozi wa Sonko ni  duni?", 
+               "answers": [
+                    {
+                       "text": "Uhuru Kenyatta", 
+                       "answer_start": 44
+                    }, 
+                    {
+                       "text": "Kenyatta", 
+                       "answer_start": 80
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Tuliingia ndani ya bafu na kuanza kuoga asubuhi maji yalikuwa baridi shadidi mno. Lakini mvumilivu hula mbivu.",
+       "qas": [
+           {
+               "id": "00008", 
+               "is_impossible": false, 
+               "question": "Aliingia bafu kuoga na maji yalikuwa baridi vipi?", 
+               "answers": [
+                    {
+                       "text": "Shadidi", 
+                       "answer_start": 45
+                    }, 
+                    {
+                       "text": "baridi shadidi", 
+                       "answer_start": 81
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Dawa za kulevya huwafanya waja kufanya matendo ya ubakaji ambayo husababisha gonjwa la ukimwi.",
+       "qas": [
+           {
+               "id": "00009", 
+               "is_impossible": false, 
+               "question": "Dawa za kulevya huwafanya waja kufanya matendo yapi?", 
+               "answers": [
+                    {
+                       "text": "Ubakaji", 
+                       "answer_start": 46
+                    }, 
+                    {
+                       "text": "matendo ya ubakaji", 
+                       "answer_start": 82
+                    }
+                 ]
+              }
+          ]
+      },
+      {
+       "context": "Dawa za kulevya huwafanya waja kufanya matendo ya ubakaji ambayo husababisha gonjwa la ukimwi.",
+       "qas": [
+           {
+               "id": "00010", 
+               "is_impossible": false, 
+               "question": "Dawa za kulevya huwafanya waja kufanya matendo yapi?", 
+               "answers": [
+                    {
+                       "text": "Ubakaji", 
+                       "answer_start": 47
+                    }, 
+                    {
+                       "text": "matendo ya ubakaji", 
+                       "answer_start": 83
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Mtu atakapo tumia dawa yoyote ya kulevya kama bangi na pombe, huadhiri ubongo na kulevya kutembea kama mtu asiyeona mbele wala nyuma, mtu anapolewa chakari, ubongo wake huacha kufanya kazi vizuri.",
+       "qas": [
+           {
+               "id": "00011", 
+               "is_impossible": false, 
+               "question": "Bangi na pombe huadhiri nini?", 
+               "answers": [
+                    {
+                       "text": "Ubongo", 
+                       "answer_start": 48
+                    }, 
+                    {
+                       "text": "huadhiri ubongo", 
+                       "answer_start": 84
+                    }
+                 ]
+              }
+          ]
+      },
+     {
+       "context": "Madawa ya kulevya humpotezesha mtu ufahamu kwa vile, ndani ya hayo madawa ya kulevya, kuna kemikali kali kali na hatari na ambayo haifai mwilini mwa binadamu ambazo huadharisha maisha na kemikali hiyo hiyo ndio humfanya mtu kupoteza au kusahau kitu alichofanya akiwa amepiga maji.",
+       "qas": [
+           {
+               "id": "00012", 
+               "is_impossible": false, 
+               "question": "Ni nini iko katika dawa za kulevya ambayo haifai mwilini?", 
+               "answers": [
+                    {
+                       "text": "Kemikali", 
+                       "answer_start": 49
+                    }, 
+                    {
+                       "text": "kemikali kali", 
+                       "answer_start": 85
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Wanaonunua bidhaa huja na vikapu kwa vile kupima vitu na kuhesabu pesa ni kazi inayohitaji maarifa na kuzingatia unapoibiwa kama mwuzaji ni kwamba wanapotoroka mbio za sakafuni huishia ukingoni.",
+       "qas": [
+           {
+               "id": "00013", 
+               "is_impossible": false, 
+               "question": "Wanaonunua bidhaa huja na nini?", 
+               "answers": [
+                    {
+                       "text": "Vikapu", 
+                       "answer_start": 50
+                    }, 
+                    {
+                       "text": "huja na vikapu", 
+                       "answer_start": 86
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Huwa watu hutupa uchafu barabarani mbaka tunakuja kusafisha barabara kila jumapili. Pia wanatupa mgonda ya matunda barabarani.",
+       "qas": [
+           {
+               "id": "00014", 
+               "is_impossible": false, 
+               "question": "Watu wanatupa uchafu wapi?", 
+               "answers": [
+                    {
+                       "text": "Barabarani", 
+                       "answer_start": 51
+                    }, 
+                    {
+                       "text": "uchafu barabarani", 
+                       "answer_start": 87
+                    }
+                 ]
+              }
+          ]
+      },
+     {
+       "context": "Rais wa Marekani wakati huo Jimmy Carter alijikuna kichwa na kupata jawabu ya kumtuma mjumbe aliyefaa kwa jukumu hili ili awashawishi viongozi wasusie michezo hiyo.",
+       "qas": [
+           {
+               "id": "00015", 
+               "is_impossible": false, 
+               "question": "Raisi wa Marekani wakati huo aliitwa nani?", 
+               "answers": [
+                    {
+                       "text": "Jimmy Carter", 
+                       "answer_start": 52
+                    }, 
+                    {
+                       "text": "huo Jimmy Carter", 
+                       "answer_start": 88
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Moi alijaribu kadri alivyoweza kustawisha amani na utangamano wa kitaifa licha ya misukosuko mingi iliyokuwa ikilikumba bara la Africa.",
+       "qas": [
+           {
+               "id": "00016", 
+               "is_impossible": false, 
+               "question": "Mzee Moi alijaribu alijaribu kustawisha amani na nini?", 
+               "answers": [
+                    {
+                       "text": "Utangamano", 
+                       "answer_start": 53
+                    }, 
+                    {
+                       "text": "amani na utangamano", 
+                       "answer_start": 89
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Utahini si kazi ya mchezo. Wanaoshiriki shughuli hii watakuambia kwamba mwaka baada ya mwaka idadi yao hupungua katika baadhi ya masomo.",
+       "qas": [
+           {
+               "id": "00017", 
+               "is_impossible": false, 
+               "question": "Ni nini ambayo sio kazi ya mchezo?", 
+               "answers": [
+                    {
+                       "text": "Utahini", 
+                       "answer_start": 54
+                    }, 
+                    {
+                       "text": "si kazi ya mchezo", 
+                       "answer_start": 90
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Tayari binti Asia Brown, mtoto wake Vera ana wafuasi wengi kwenye mtandao wa instagram zaidi ya wengi wetu watu maarufu.",
+       "qas": [
+           {
+               "id": "00018", 
+               "is_impossible": false, 
+               "question": "Asia Brown ana wafuasi wengi wapi?", 
+               "answers": [
+                    {
+                       "text": "Mtandaoni", 
+                       "answer_start": 55
+                    }, 
+                    {
+                       "text": "kwenye mtandao", 
+                       "answer_start": 91
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Katika eneobunge la Wajir Kusini, walimu 47 walihamishwa.",
+       "qas": [
+           {
+               "id": "00019", 
+               "is_impossible": false, 
+               "question": "Eneo bunge la Wajir Kusini walimu wangapi walihamishwa?", 
+               "answers": [
+                    {
+                       "text": "47", 
+                       "answer_start": 56
+                    }, 
+                    {
+                       "text": "walimu 47", 
+                       "answer_start": 92
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Mzazi alijua kwamba lilikuwa jukumu lake kumsomesha mwanawe. Kwa maanahii, angejikakamua kadiri ya uwezo wake kuhakikisha kwamba mwanawe alikuwa shuleni hata kama ni kumtafutia ya kutwa karibu na nyumbani.",
+       "qas": [
+           {
+               "id": "00020", 
+               "is_impossible": false, 
+               "question": "Nani alijua kuwa lilikuwa jukumu lake kumsomesha mwanawe?", 
+               "answers": [
+                    {
+                       "text": "Mzazi", 
+                       "answer_start": 58
+                    }, 
+                    {
+                       "text": "jukumu la mzazi", 
+                       "answer_start": 94
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Njia moja ambayo imesababisha kuenea kwa maradhi haya ni ukosefu wa usafi wa mazingira. Baadhi ya chamchemi zote za maji tunazozitegemea zina kemkem ya takataka.",
+       "qas": [
+           {
+               "id": "00021", 
+               "is_impossible": false, 
+               "question": "Kuenea kwa maradhi kunatokana na ukosefu wa usafi wa?", 
+               "answers": [
+                    {
+                       "text": "Mazingira", 
+                       "answer_start": 59
+                    }, 
+                    {
+                       "text": "usafi wa mazingira", 
+                       "answer_start": 95
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Wakenya wanapasa kupata fun- kila mara, ihali mabwawa hayo zo kutoka kwa nchi ya Israeli. Hii yangebadilisha maeneo hayo na ni nchi ambayo eneo lake kubwa kuyafanya mashamba ya kufanyia ni jangwa.",
+       "qas": [
+           {
+               "id": "00022", 
+               "is_impossible": false, 
+               "question": "Wakenya wanafaa kupata funzo kutoka nchi gani?", 
+               "answers": [
+                    {
+                       "text": "Israeli", 
+                       "answer_start": 60
+                    }, 
+                    {
+                       "text": "nchi ya Israeli",
+                       "answer_start": 96
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "kwa jum la, idadi ya watu wanaomiliki simu za rununu nchini ni 20.6 milioni.Watu hawa ni kutoka umri wa miaka.",
+       "qas": [
+           {
+               "id": "00023", 
+               "is_impossible": false, 
+               "question": "Sensa inaonyesha wanaomiliki rununu nchini ni milioni ngapi?", 
+               "answers": [
+                    {
+                       "text": "20.6", 
+                       "answer_start": 61
+                    }, 
+                    {
+                       "text": "rununu nchini ni 20.6",
+                       "answer_start": 97
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Mkojo wa sungura una wingi wa Nitrogen. Nitrogen ni kemikali ambayo inapatikana kwenye anga kwa kiasi cha asilimia 78. Nitrogen inayopatikana katika mkojo wa sungura ni muhimu sana katika utayarishaji wa mbolea ya majani.",
+       "qas": [
+           {
+               "id": "00024", 
+               "is_impossible": false, 
+               "question": "Mkojo wa sungura una wingi wa nini?", 
+               "answers": [
+                    {
+                       "text": "Nitrogen", 
+                       "answer_start": 62
+                    }, 
+                    {
+                       "text": "wingi wa Nitrogen",
+                       "answer_start": 98
+                    }
+                 ]
+              }
+          ]
+     },
+     {
+       "context": "Jambo linalovunja moyo ni kwamba vijana wengi wa Afrika wamekumbwa na vikwazo kadhaa katika juhudi zao za kujiimarisha. Wengine wao huridhika na elimu mapema baada ya kumaliza darasa la nane. Ni wakati huo ambapo vijana kama hao hudhani wanaweza kuoa na kuanzisha familia yao. Hawajui kuwa watoto kama wao kuanza kukimu familia ni kujichimbia kaburi la ufukara fukarike. Utawasikia wengine wakisingizia kuwa hawataki kusoma kwani wazazi wao ni maskini.",
+       "qas": [
+           {
+               "id": "00025", 
+               "is_impossible": false, 
+               "question": "vijana wengine wanasingizia hawataki kusoma kwa sababu gani?", 
+               "answers": [
+                    {
+                       "text": "wazazi wao ni maskini", 
+                       "answer_start": 40
+                    }, 
+                    {
+                       "text": "umaskini", 
+                       "answer_start": 76
+                    }
+                 ]
+              }
+          ]
+      },
+      {
+       "context": "Ni muhimu kwa vijana kufahamu kuwa hata kama hawakufanya vyema katika mitihani yao ya kitaifa, wanaweza kujiunga na vyuo vya ufundi anuwai na kujipatia maarifa yanayoweza kuwapa kazi.",
+       "qas": [
+           {
+               "id": "00026", 
+               "is_impossible": false, 
+               "question": "Vijana hawafanyi vyema katika mitihani, wanaweza kujiunga na?", 
+               "answers": [
+                    {
+                       "text": "vyuo vya ufundi anuwai", 
+                       "answer_start": 43
+                    }, 
+                    {
+                       "text": "vyuo vya ufundi", 
+                       "answer_start": 78
+                    }
+                 ]
+              }
+          ]
+      },
+      {   
+         "context": "Binafsi nimewapoteza jamaa wengi tu kutokana na ugonjwa huo, hivyo basi mapambano dhidi ya virusi vyenyewe ni vita ambavyo sisiti kushiriki pale fursa inapojitokeza.",
+         "qas": [
+           {
+               "id": "00027", 
+               "is_impossible": false, 
+               "question": "amewapoteza nani kutokana na ugonjwa huo?", 
+               "answers": [
+                    {
+                       "text": "jamaa wengi", 
+                       "answer_start": 44
+                    }, 
+                    {
+                       "text": "jamaa wengi tu", 
+                       "answer_start": 79
+                    }
+                 ]
+              }
+          ]
+      },
+      {
+          "context": "Nilipokuwa mdogo nilienda kuwatembelea babu na nyanya yangu. Waliishi Katika nchi ya Kenya mji mmoja onaitwa Nakuru.Tulipanda ndege kutoka mji wa Melbourne hadi Dubai. Pale Dubai tulichukua ndege ya kutupeleka mpaka mji mkuu wa Kenya Nairobi.", 
+          "qas": [
+              {
+                  "id": "00028",
+                  "is_impossible": false,
+                  "question": "Njeri alipanda Ndege kutoka wapi?",
+                  "answers": [
+                       {
+                          "text": "Melbourne",
+                          "answer_start": 24
+                       }
+                     ]
+                  }, 
+                  {
+                      "id": "00029",
+                      "is_impossible": true, 
+                      "question": "Njeri waliishi mji gani nchini Kenya?", 
+                      "answers": []
+                  }
+              ]
+          },
+          {
+          "context": "Itakuwa ni miujiza ikiwa mwanamke atarithi mali ya wazee wake wanapomaliza safari yao. Arithiye ni waladi, bali si msichana. Badala yake, ni mwanamke kurithiwa bwana akienda ahera. Mwanamke hana haki ya kumiliki mali, hata yaliyo yake hufanywa ya mumewe. Yafaa watoto wa kike na waladi wawe na haki sawa ya kurithi mali ya wazee wao.", 
+          "qas": [
+              {
+                  "id": "00030",
+                  "is_impossible": false,
+                  "question": "watoto wa kike na waladi wawe na haki sawa kurithi?",
+                  "answers": [
+                       {
+                          "text": "mali ya wazee wao",
+                          "answer_start": 21
+                       }
+                     ]
+                  }, 
+                  {
+                      "id": "00031",
+                      "is_impossible": true, 
+                      "question": "Arithiye mali ya wazee ni nani?", 
+                      "answers": []
+                  }
+              ]
+           }
+       ]
